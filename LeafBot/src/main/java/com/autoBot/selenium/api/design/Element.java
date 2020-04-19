@@ -7,6 +7,14 @@ import org.openqa.selenium.WebElement;
 
 public interface Element {
 	
+	/**
+	 * 
+	 * This steps are to push the git hub to our separate branch
+	 * And then provide pull request to the manager
+	 * Manager will review the code and update the status
+	 * Then we can  push the code from our branch to Master branch directly
+	 * added the code
+	 */
 	
 	/**
 	 * This method will click the element and take snap
